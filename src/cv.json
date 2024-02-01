@@ -1,47 +1,47 @@
 {
     "basics": {
-        "name": "John Doe",
-        "label": "Programmer",
+        "name": "Antonio Martínez",
+        "label": "Civil Engineer - Software Developer - Full-Stack - Deep-Stack",
         "image": "https://www.phoenix.edu/info/cybersecurity/_jcr_content/root/container/container_copy_copy_/columns/responsivegrid0/container/image.coreimg.85.1600.jpeg/1669083587945/cybersecurity-hero.jpeg",
-        "email": "john@gmail.com",
+        "email": "antonio_martinez88@hotmail.com",
         "phone": "(912) 555-4321",
-        "url": "https://johndoe.com",
-        "summary": "A summary of John Doe…",
+        "url": "",
+        "summary": "A summary of Antonio Martínez",
         "location": {
-            "address": "2712 Broadway St",
-            "postalCode": "CA 94115",
-            "city": "San Francisco",
+            "address": "Bay Harbor",
+            "postalCode": "FL 33154",
+            "city": "Miami",
             "countryCode": "US",
-            "region": "California"
+            "region": "Florida"
         },
         "profiles": [
             {
                 "network": "X",
-                "username": "john",
-                "url": "https://twitter.com/john"
+                "username": "metantonio",
+                "url": "https://twitter.com/metantonio"
             },
             {
                 "network": "LinkedIn",
                 "username": "john",
-                "url": "https://twitter.com/john"
+                "url": "https://linkedin.com/in/metantonio"
             },
             {
                 "network": "GitHub",
                 "username": "john",
-                "url": "https://twitter.com/john"
+                "url": "https://github.com/metantonio"
             }
         ]
     },
     "work": [
         {
-            "name": "Company",
-            "position": "President",
-            "url": "https://company.com",
-            "startDate": "2013-01-01",
-            "endDate": "2014-01-01",
-            "summary": "Description…",
+            "name": "Qualex Consulting Services, INC.",
+            "position": "Software Developer",
+            "url": "https://qlx.com",
+            "startDate": "2023-06-01",
+            "endDate": "Current",
+            "summary": "Full-Stack Software developer, centered on programming languages and technologies like: Javascript, Python, React, React Context, Flask, Flask-sqlAlchemy, mySQL, MongoDB, postgreSQL, Qdrant, Chroma, Machine Learning, AI. \nWork with UNIX systems ",
             "highlights": [
-                "Started the company"
+                "Full-Stack Software developer, centered on programming languages and technologies like: Javascript, Python, React, React Context, Flask, Flask-sqlAlchemy, mySQL, MongoDB, postgreSQL, Qdrant, Chroma, Machine Learning, AI. \nWork with UNIX systems "
             ]
         }
     ],
@@ -60,15 +60,15 @@
     ],
     "education": [
         {
-            "institution": "University",
+            "institution": "Universidad Central de Venezuela",
             "url": "https://institution.com/",
-            "area": "Software Development",
+            "area": "Civil Engineering",
             "studyType": "Bachelor",
-            "startDate": "2011-01-01",
-            "endDate": "2013-01-01",
+            "startDate": "2014-08-01",
+            "endDate": "2021-11-26",
             "score": "4.0",
             "courses": [
-                "DB1101 - Basic SQL"
+                "",""
             ]
         }
     ],
@@ -110,8 +110,12 @@
     ],
     "languages": [
         {
-            "language": "English",
+            "language": "Spanish",
             "fluency": "Native speaker"
+        },
+        {
+            "language": "English",
+            "fluency": "Proficiency"
         }
     ],
     "interests": [
